@@ -38,7 +38,6 @@ The analysis is based on a multi-table Blinkit retail dataset containing:
 
 ![Dashboard Screenshot](Dashboard.png)
 
-> *Add your actual dashboard screenshot here*
 
 **Key Insights**
 - Total Revenue generated: **₹10.43 Lakh**
