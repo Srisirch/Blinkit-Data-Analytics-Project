@@ -36,7 +36,7 @@ The analysis is based on a multi-table Blinkit retail dataset containing:
 
  **Dashboard Preview**
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 > *Add your actual dashboard screenshot here*
 
